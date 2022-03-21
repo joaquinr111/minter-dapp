@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "IndieCats Club";
-const description = "IndieCats are your access pass to a global networking community & Project platform for independent filmmakers, actors, and production professionals; Indieverse.";
+const description = "IndieCats are your access pass to a global networking community & Project platform for independent filmmakers, actors, and production professionals, Indieverse.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
@@ -60,7 +60,7 @@ const GENERIC_DESCRIPTION = "IndieCats are your access pass to a global networki
 const GENERIC_IMAGE = [
   "https://ipfs.io/ipfs/QmUf9tDbkqnfHkQaMdFWSGAeXwVXWA61pFED7ypx4hcsfh",
 ]; // Replace with your generic image(s). If multiple, separate with a comma.
-const REVEAL_PROMPT = true; // Set to false if you want to disable the prompt to confirm each reveal.
+const REVEAL_PROMPT = false; // Set to false if you want to disable the prompt to confirm each reveal.
 const INTERVAL = 900000; // Milliseconds. This is the interval for it to check for sales and reveal the NFT. 900000 = 15 minutes.
 
 // Automatically set contract address if deployed using the deployContract.js script
