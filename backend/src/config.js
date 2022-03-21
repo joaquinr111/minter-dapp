@@ -41,7 +41,7 @@ const extraMetadata = {
 
 // NFTPort Info
 // ** REQUIRED **
-const AUTH = "2e0add75-8918-4e5a-8600-708ccef7ab87";
+const AUTH = "b14a3920-d073-4407-ae32-4605ed7df195";
 const LIMIT = 2; // Your API key rate limit
 const CONTRACT_NAME = 'IndieCats Club';
 const CONTRACT_SYMBOL = 'IC';
