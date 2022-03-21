@@ -36,12 +36,12 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://indiecats.club", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://indiecats.club"; // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
 // ** REQUIRED **
-const AUTH = "b14a3920-d073-4407-ae32-4605ed7df195";
+const AUTH = "b14a3920d0734407ae324605ed7df195";
 const LIMIT = 2; // Your API key rate limit
 const CONTRACT_NAME = 'IndieCats Club T2';
 const CONTRACT_SYMBOL = 'IC2';
