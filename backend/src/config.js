@@ -43,8 +43,8 @@ const extraMetadata = {
 // ** REQUIRED **
 const AUTH = "b14a3920d0734407ae324605ed7df195";
 const LIMIT = 2; // Your API key rate limit
-const CONTRACT_NAME = 'IndieCats Club T2';
-const CONTRACT_SYMBOL = 'IC2';
+const CONTRACT_NAME = 'IndieCats Club';
+const CONTRACT_SYMBOL = 'IC';
 const CONTRACT_TYPE = 'erc721';
 const MINT_TO_ADDRESS = '0x45A3173e13ede0604C128f25A64DA07EDAA7aF51';
 const CHAIN = 'rinkeby'; // polygon on rinkeby only
